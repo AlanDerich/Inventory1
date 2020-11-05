@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">651182282350-abgbttlljrt7v7l7mejmgok7rnq0vccp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://eldoret-online-market.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">651182282350</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAYxKvniu2M1kcjNZk1xISQOTIW0sDVao</string>
+    <string name="google_app_id" translatable="false">1:651182282350:android:78a5991960beb68efe787f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAYxKvniu2M1kcjNZk1xISQOTIW0sDVao</string>
+    <string name="google_storage_bucket" translatable="false">eldoret-online-market.appspot.com</string>
+    <string name="project_id" translatable="false">eldoret-online-market</string>
+</resources>

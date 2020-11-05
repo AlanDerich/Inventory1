@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "651182282350",
+    "firebase_url": "https://eldoret-online-market.firebaseio.com",
+    "project_id": "eldoret-online-market",
+    "storage_bucket": "eldoret-online-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651182282350:android:78a5991960beb68efe787f",
+        "android_client_info": {
+          "package_name": "com.nduta.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651182282350-kcqrel0ohrl6sqh0hh16k51g6c2js51n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nduta.inventory",
+            "certificate_hash": "7fd4e3a1b95de1ee15046097487bb57a8da47691"
+          }
+        },
+        {
+          "client_id": "651182282350-c4408bho3erv1cpc3jap9oedp5cpbikl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nduta.inventory",
+            "certificate_hash": "55ab8be41864790843a928d8f2dce1b0483a90a7"
+          }
+        },
+        {
+          "client_id": "651182282350-abgbttlljrt7v7l7mejmgok7rnq0vccp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAYxKvniu2M1kcjNZk1xISQOTIW0sDVao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651182282350-abgbttlljrt7v7l7mejmgok7rnq0vccp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
